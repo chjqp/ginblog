@@ -1,0 +1,6 @@
+time="2024-07-04T12:08:05+08:00" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=1414 HostName=LAPTOP-GOJPGFO5 Ip="::1" Method=GET Path="/api/v1/article/list/2?pagesize=5&pagenum=1" SpendTime="1 ms" status=200
+0" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=29 HostName=LAPTOP-GOJPGFO5 Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="15 ms" status=200
+time="2024-07-04T11:48:23+08:00" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=53 HostName=LAPTOP-GOJPGFO5 Ip="::1" Method=GET Path="/api/v1/article/?pagesize=2&pagenum=3" SpendTime="13 ms" status=200
+time="2024-07-04T11:49:58+08:00" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=1414 HostName=LAPTOP-GOJPGFO5 Ip="::1" Method=GET Path="/api/v1/article/list/2?pagesize=5&pagenum=1" SpendTime="11 ms" status=200
+T11:47:08+08:00" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=58 HostName=LAPTOP-GOJPGFO5 Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="0 ms" status=200
+time="2024-07-04T11:47:09+08:00" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=58 HostName=LAPTOP-GOJPGFO5 Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="0 ms" status=200
